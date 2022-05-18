@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/otp-autofill-v2/static/css/main.e6c13ad2.css",
-    "main.js": "/otp-autofill-v2/static/js/main.675d6dd3.js",
+    "main.js": "/otp-autofill-v2/static/js/main.cce6a163.js",
     "static/js/787.5fedd741.chunk.js": "/otp-autofill-v2/static/js/787.5fedd741.chunk.js",
     "index.html": "/otp-autofill-v2/index.html",
     "main.e6c13ad2.css.map": "/otp-autofill-v2/static/css/main.e6c13ad2.css.map",
-    "main.675d6dd3.js.map": "/otp-autofill-v2/static/js/main.675d6dd3.js.map",
+    "main.cce6a163.js.map": "/otp-autofill-v2/static/js/main.cce6a163.js.map",
     "787.5fedd741.chunk.js.map": "/otp-autofill-v2/static/js/787.5fedd741.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.675d6dd3.js"
+    "static/js/main.cce6a163.js"
   ]
 }
