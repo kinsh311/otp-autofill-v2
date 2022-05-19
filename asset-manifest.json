@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/otp-autofill-v2/static/js/main.dfc9a5e2.js",
+    "main.js": "/otp-autofill-v2/static/js/main.0fd4f9a4.js",
     "static/media/bg.png": "/otp-autofill-v2/static/media/bg.f67f06204ca1f994644d.png",
     "index.html": "/otp-autofill-v2/index.html",
-    "main.dfc9a5e2.js.map": "/otp-autofill-v2/static/js/main.dfc9a5e2.js.map"
+    "main.0fd4f9a4.js.map": "/otp-autofill-v2/static/js/main.0fd4f9a4.js.map"
   },
   "entrypoints": [
-    "static/js/main.dfc9a5e2.js"
+    "static/js/main.0fd4f9a4.js"
   ]
 }
