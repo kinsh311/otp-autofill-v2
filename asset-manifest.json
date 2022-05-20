@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/otp-autofill-v2/static/js/main.c12a3e55.js",
+    "main.js": "/otp-autofill-v2/static/js/main.a402fbdd.js",
     "static/media/bg.png": "/otp-autofill-v2/static/media/bg.f67f06204ca1f994644d.png",
     "static/media/homebg.png": "/otp-autofill-v2/static/media/homebg.5cd4f6ebbeb564adc151.png",
     "static/media/home-c2.png": "/otp-autofill-v2/static/media/home-c2.6f4be045bbb39fc4c29d.png",
     "static/media/home-c1.jpg": "/otp-autofill-v2/static/media/home-c1.5992718856e1d6276698.jpg",
     "static/media/home-c3.jpg": "/otp-autofill-v2/static/media/home-c3.cc9cad72dcc589fb85d0.jpg",
     "index.html": "/otp-autofill-v2/index.html",
-    "main.c12a3e55.js.map": "/otp-autofill-v2/static/js/main.c12a3e55.js.map"
+    "main.a402fbdd.js.map": "/otp-autofill-v2/static/js/main.a402fbdd.js.map"
   },
   "entrypoints": [
-    "static/js/main.c12a3e55.js"
+    "static/js/main.a402fbdd.js"
   ]
 }
